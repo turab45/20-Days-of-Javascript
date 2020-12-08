@@ -1,4 +1,8 @@
 /*
+******** CHALLANGE LINK: https://www.hackerrank.com/challenges/js10-loops/problem?h_r=next-challenge&h_v=zen
+
+
+
  * Complete the vowelsAndConsonants function.
  * Print your output using 'console.log()'.
  */
